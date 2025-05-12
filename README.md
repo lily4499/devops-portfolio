@@ -99,6 +99,6 @@ I'm currently exploring **GitOps**, **progressive delivery**, and **multi-cloud 
 ---
 
 > *“Deploy often, test everything, and document like your future self will thank you.”*
-```
+
 
 ---
