@@ -7,6 +7,7 @@
 Hi! I’m a DevOps Engineer with 3+ years of experience automating infrastructure, securing deployments, and enabling scalable, reliable software delivery on cloud-native platforms. I specialize in building CI/CD pipelines, managing Kubernetes workloads, and writing clean Infrastructure as Code.
 
 ---
+---
 
 ## 🌐 Portfolio & Profiles
 
@@ -15,6 +16,7 @@ Hi! I’m a DevOps Engineer with 3+ years of experience automating infrastructur
 - 💼 [LinkedIn](https://www.linkedin.com/in/liliane-2021/)
 - 📄 [Resume (PDF)](https://your-resume-link.com)
 
+---
 ---
 
 ## 📁 Featured Projects
@@ -49,6 +51,7 @@ Integrated image scanning and code quality checks into the CI pipeline using Tri
 - [Blog Post](https://medium.com/@lilnya79/secure-ci-with-trivy-sonarqube)
 
 ---
+---
 
 ## ✍️ Blog Highlights
 
@@ -58,6 +61,7 @@ Integrated image scanning and code quality checks into the CI pipeline using Tri
 - 🌈 [Canary vs Blue-Green vs Rolling Deployments](https://medium.com/@lilnya79)
 - 🧠 [What is GitOps and Why It’s Changing the Way We Deploy](https://medium.com/@lilnya79)
 
+---
 ---
 
 ## 🛠 Skills & Tools
@@ -74,6 +78,7 @@ Integrated image scanning and code quality checks into the CI pipeline using Tri
 | VCS & Collab   | Git, GitHub, Jira, Slack |
 
 ---
+---
 
 ## 📚 Certifications
 
@@ -81,6 +86,7 @@ Integrated image scanning and code quality checks into the CI pipeline using Tri
 - ✅ Terraform Associate – HashiCorp
 - ✅ Certified Kubernetes Administrator *(CKA)*
 
+---
 ---
 
 ## 🧠 About Me
@@ -90,12 +96,14 @@ I believe in **automating everything** and building resilient systems. My passio
 I'm currently exploring **GitOps**, **progressive delivery**, and **multi-cloud DevOps**.
 
 ---
+---
 
 ## 📫 Contact
 
 - 📧 konissili@gmail.com
 - 📍 Glen Burnie, MD, USA
 
+---
 ---
 
 > *“Deploy often, test everything, and document like your future self will thank you.”*
