@@ -2,7 +2,6 @@
 
 ---
 
-```markdown
 # 👩‍💻 Liliane Konissi — DevOps Engineer
 
 Hi! I’m a DevOps Engineer with 3+ years of experience automating infrastructure, securing deployments, and enabling scalable, reliable software delivery on cloud-native platforms. I specialize in building CI/CD pipelines, managing Kubernetes workloads, and writing clean Infrastructure as Code.
